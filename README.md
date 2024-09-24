@@ -8,10 +8,10 @@ Este projeto é uma simulação visual de um tesseract, ou hipercubo, em que se 
 - `Animação`: O tesseract é rotacionado continuamente, e a visualização resultante é atualizada em tempo real, mostrando diferentes perspectivas da forma geométrica conforme ela se transforma.
 - `Rotação e Perspectiva`: A rotação é aplicada nos planos XY, XZ, YW e ZW, em uma sequênica que permite que todos os aspectos do tesseract sejam explorados visualmente. A perspectiva resultante demonstra como uma pessoa poderia ver diferentes conexões entre os cubos ao "cair" dentro de um tesseract.
 
-- **Requisitos**
+ **Requisitos**
 
-- - Python 3.x
-  - Biblioteca `matplotlib`
+ - Python 3.x
+ - Biblioteca `matplotlib`
  
   **Como Executar**:
 
