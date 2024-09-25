@@ -1,4 +1,7 @@
 ## Visão Interna do Tesseract - Simulação 3D
+
+![Captura_de_tela_2024-09-11_142117](https://github.com/user-attachments/assets/8ae3fcba-a187-4974-9ffb-341435094d2e)
+
 Este projeto é uma simulação visual de um tesseract, ou hipercubo, em que se projeta a forma geométrica de 4 dimensões (4D) para 3 dimensões (3D), permitindo a visualização a partir de diferentes ângulos. O código utiliza a biblioteca `matplotlib` para gerar gráficos 3D, rotacionando e projetando o tesseract de modo que suas conexões internas sejam exibidas em um espaço 3D.
 
 **Como Funciona:**
